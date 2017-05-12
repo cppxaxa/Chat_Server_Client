@@ -1,0 +1,4 @@
+C:\Users\ktuser\Desktop\abhamid\TcpChatApplication_1\TcpChatApplication_1\bin\Debug\TcpChatApplication_1.exe
+C:\Users\ktuser\Desktop\abhamid\TcpChatApplication_1\TcpChatApplication_1\bin\Debug\TcpChatApplication_1.pdb
+C:\Users\ktuser\Desktop\abhamid\TcpChatApplication_1\TcpChatApplication_1\obj\x86\Debug\TcpChatApplication_1.exe
+C:\Users\ktuser\Desktop\abhamid\TcpChatApplication_1\TcpChatApplication_1\obj\x86\Debug\TcpChatApplication_1.pdb
